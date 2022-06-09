@@ -7,6 +7,6 @@ CNN is a class of artificial neural network (ANN), most commonly applied to anal
 - [David / C14190040](https://github.com/DavidIvanSantoso)
 
 ## Preview
-<img src="documentation/image1.png" width="350" height="350">&emsp<img src="documentation/image2.png" width="350" height="350"> <br>
-<img src="documentation/image3.png" width="350" height="350">&emsp<img src="documentation/image4.png" width="350" height="350"> <br>
-<img src="documentation/image5.png" width="350" height="350">&emsp<img src="documentation/image6.png" width="350" height="350"> <br>
+<img src="documentation/image1.png" width="380" height="380">   <img src="documentation/image2.png" width="380" height="380"> <br>
+<img src="documentation/image3.png" width="380" height="380">   <img src="documentation/image4.png" width="380" height="380"> <br>
+<img src="documentation/image5.png" width="380" height="380">   <img src="documentation/image6.png" width="380" height="380"> <br>
